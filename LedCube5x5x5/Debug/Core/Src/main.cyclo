@@ -1,0 +1,11 @@
+../Core/Src/main.c:77:5:main	34
+../Core/Src/main.c:246:6:SystemClock_Config	3
+../Core/Src/main.c:283:13:MX_GPIO_Init	1
+../Core/Src/main.c:329:6:hienthi	5
+../Core/Src/main.c:346:6:dich74hc595	3
+../Core/Src/main.c:359:6:mo74hc595	1
+../Core/Src/main.c:364:6:reset	2
+../Core/Src/main.c:370:6:tangz_on	6
+../Core/Src/main.c:392:6:tangz_off	6
+../Core/Src/main.c:414:6:plane	15
+../Core/Src/main.c:476:6:Error_Handler	1
